@@ -11,6 +11,14 @@ Este projeto consiste em um programa de chutes do usuário para acertar um numer
 - **CSS**
   - Estilização do site.
 
----
+### Deploy
 
-Criado por Ewerton Bertoldo | ton_rafael@hotmail.com
+O deploy foi realizado no site **vercel.com**
+
+## Acesso ao jogo
+
+O jogo pode ser acessado atraves do link:  [jogo do numero secreto](https://jogo-numerosecreto-psi.vercel.app/)
+
+Programa ensinado pelo curso da Alura
+
+Adaptado por Ewerton Bertoldo | ton_rafael@hotmail.com
